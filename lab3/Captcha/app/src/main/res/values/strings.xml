@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Captcha</string>
+    <string name="new_word_menu_item">New word</string>
+    <string name="check_menu_item">Check</string>
+    <string name="correct_toast">Correct!!</string>
+    <string name="incorrect_toast">Oops! Try again!</string>
+    <string name="hint_text">Enter what do you see</string>
+</resources>
